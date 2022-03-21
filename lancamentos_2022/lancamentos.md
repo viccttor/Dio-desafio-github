@@ -1,6 +1,6 @@
 # Lançamentos Marvel & DC - 2022 :film_projector:
 
-Veja os lançamentos de filmes e séries que irão ocorrer no ano de 2022.
+Veja os lançamentos de filmes e séries que irão ocorrer no ano de 2022
 
 
 
