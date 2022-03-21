@@ -3,3 +3,8 @@
 
 
 
+## Desafio 
+
+Utilizando os conhecimentos gerados do curso de introdução a a Git/GitHub, criei uma lista utilizando o **Markdown**, com os lançamentos da **Marvel** e **DC** para o ano de ***2022***.
+
+ 
