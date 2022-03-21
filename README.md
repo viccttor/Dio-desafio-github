@@ -1,1 +1,2 @@
-# DioMe-desafio-github-bootcamp-Philips
+# Desafio de Projeto sobre Git/GitHub da DIO
+## Repositório criado para o desafio de Projeto, Philips "You are you"
